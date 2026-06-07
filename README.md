@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/IamSboby/Custom-icon-mc-mod?style=flat&color=181717)](https://github.com/IamSboby/Custom-icon-mc-mod/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric_Loader-0.16.9+-DBB589?style=flat)](https://fabricmc.net)
-[![License](https://img.shields.io/github/license/IamSboby/Custom-icon-mc-mod?style=flat)](LICENSE)
+[![License](https://img.shields.io/github/license/IamSboby/Custom-icon-mc-mod?style=flat&label=License&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-sboby4all-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sboby4all)
 
 Replaces the Minecraft OS window icon (taskbar / dock / title bar) with a user-supplied `logo.png`, with zero configuration and no extra dependencies.
