@@ -1,9 +1,9 @@
 # custom-logo — Fabric mod for Minecraft 1.21.1
 
-[![GitHub release](https://img.shields.io/github/v/release/SbobyOnDev/custom-logo?style=flat&color=181717)](https://github.com/SbobyOnDev/custom-logo/releases)
+[![GitHub release](https://img.shields.io/github/v/release/IamSboby/custom-logo?style=flat&color=181717)](https://github.com/IamSboby/custom-logo/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat&logo=data:image/png;base64,iVBORw0KGgo=)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric_Loader-0.16.9+-DBB589?style=flat)](https://fabricmc.net)
-[![License](https://img.shields.io/github/license/SbobyOnDev/custom-logo?style=flat)](LICENSE)
+[![License](https://img.shields.io/github/license/IamSboby/custom-logo?style=flat)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-sboby4all-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sboby4all)
 
 Replaces the Minecraft OS window icon (taskbar / dock / title bar) with a user-supplied `logo.png`, with zero configuration and no extra dependencies.
