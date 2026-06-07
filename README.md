@@ -1,7 +1,7 @@
 # custom-logo — Fabric mod for Minecraft 1.21.1
 
 [![GitHub release](https://img.shields.io/github/v/release/IamSboby/custom-logo?style=flat&color=181717)](https://github.com/IamSboby/custom-logo/releases)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat&logo=data:image/png;base64,iVBORw0KGgo=)](https://minecraft.net)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric_Loader-0.16.9+-DBB589?style=flat)](https://fabricmc.net)
 [![License](https://img.shields.io/github/license/IamSboby/custom-logo?style=flat)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-sboby4all-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sboby4all)
