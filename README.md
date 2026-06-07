@@ -1,9 +1,9 @@
-# custom-logo — Fabric mod for Minecraft 1.21.1
+# Custom-icon-mc-mod — Fabric mod for Minecraft 1.21.1
 
-[![GitHub release](https://img.shields.io/github/v/release/IamSboby/custom-logo?style=flat&color=181717)](https://github.com/IamSboby/custom-logo/releases)
+[![GitHub release](https://img.shields.io/github/v/release/IamSboby/Custom-icon-mc-mod?style=flat&color=181717)](https://github.com/IamSboby/Custom-icon-mc-mod/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric_Loader-0.16.9+-DBB589?style=flat)](https://fabricmc.net)
-[![License](https://img.shields.io/github/license/IamSboby/custom-logo?style=flat)](LICENSE)
+[![License](https://img.shields.io/github/license/IamSboby/Custom-icon-mc-mod?style=flat)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-sboby4all-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sboby4all)
 
 Replaces the Minecraft OS window icon (taskbar / dock / title bar) with a user-supplied `logo.png`, with zero configuration and no extra dependencies.
@@ -75,7 +75,7 @@ gradlew.bat build
 
 > Do **not** invoke `gradle` directly — a system-wide Gradle installation may differ from the required version and cause `LoomGradleExtensionImpl` instantiation errors.
 
-Output: `build/libs/custom-logo-1.0.0.jar`
+Output: `build/libs/Custom-icon-mc-mod-1.0.0.jar`
 
 ### Key build configuration
 
@@ -91,13 +91,13 @@ Output: `build/libs/custom-logo-1.0.0.jar`
 
 ## Installation
 
-1. Place `custom-logo-x.x.x.jar` in `.minecraft/mods/`
+1. Place `Custom-icon-mc-mod-x.x.x.jar` in `.minecraft/mods/`
 2. Place `logo.png` in `.minecraft/` (root) or `.minecraft/mods/` as a fallback
 
 ```
 .minecraft/
 ├── mods/
-│   └── custom-logo-1.0.0.jar
+│   └── Custom-icon-mc-mod-1.0.0.jar
 ├── logo.png        <- primary lookup path
 └── ...
 ```
